@@ -1,3 +1,6 @@
+//Write a method, that will get an integer array as parameter and will process every number from this array.
+
+
 function squareOrSquareRoot(input: any) {
     const array = [];
     for(let i = 0; i < input.length; i++){
